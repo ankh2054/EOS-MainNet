@@ -8,7 +8,7 @@
 #
 ###############################################################################
 
-DATADIR="/opt/EOSmainNet"
+DATADIR="/chains/wax"
 NODEOSBINDIR="/home/eos-sources/eos/build/programs"
 
 
